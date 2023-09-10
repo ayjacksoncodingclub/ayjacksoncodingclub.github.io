@@ -159,8 +159,8 @@ brand_color: "#6C41DA"
 #   - about.md
 
 header_pages:
-- join.html
-- connect.html
+- join.md
+- connect.md
 - archives.html
 - categories.html
 # Page default value

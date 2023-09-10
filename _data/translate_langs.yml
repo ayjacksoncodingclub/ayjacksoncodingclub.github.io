@@ -1,0 +1,10 @@
+# Translate languages
+# langs refer to https://cloud.google.com/translate/docs/languages
+
+- lang: en
+  img: https://cdn.countryflags.com/thumbs/canada/flag-400.png
+  text: English
+
+- lang: fr
+  img: https://cdn.countryflags.com/thumbs/france/flag-400.png
+  text: Français

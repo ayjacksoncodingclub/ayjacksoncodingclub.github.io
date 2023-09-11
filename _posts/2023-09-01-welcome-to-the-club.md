@@ -3,7 +3,7 @@ layout: post
 title: Welcome to the Coding Club!
 top: 1
 subtitle: We're glad to have you here.
-categories: welcome
+categories: Welcome
 author: Coding Club Executive Team
 tags: [codingclub]
 banner:

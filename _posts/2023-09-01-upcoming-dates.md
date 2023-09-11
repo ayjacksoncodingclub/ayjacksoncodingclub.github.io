@@ -2,7 +2,7 @@
 layout: post
 title: Upcoming Dates
 top: 2
-categories: calendar
+categories: Calendar
 tags: [codingclub]
 banner:
     image: https://cdn.discordapp.com/attachments/942207909973094414/1150502908463431832/Calendar.jpg

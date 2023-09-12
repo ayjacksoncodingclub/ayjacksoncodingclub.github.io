@@ -1,1 +1,0 @@
-# AYTheme for Jekyll

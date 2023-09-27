@@ -2,7 +2,7 @@
 layout: post
 title: Upcoming Information Meeting - October 3rd, 2023
 categories: General
-tags: [General]
+tags: [codingclub]
 ---
 The Coding Club will host an information meeting on **October 3, 2023** at **lunch** time in **Room 234**.
 

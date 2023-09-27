@@ -14,14 +14,14 @@ September 2023
 
 | Date | Event |
 |------|-------|
-| To be determined | N/A |
+| N/A | N/A |
 
 October 2023
 ------------
 
 | Date | Event |
 |------|-------|
-| To be determined | N/A |
+| October 3 | General Meeting |
 
 November 2023
 ------------

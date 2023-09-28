@@ -21,7 +21,7 @@ October 2023
 
 | Date | Event |
 |------|-------|
-| October 3 | General Meeting |
+| October 3 | General Meeting in Room 228 |
 
 November 2023
 ------------

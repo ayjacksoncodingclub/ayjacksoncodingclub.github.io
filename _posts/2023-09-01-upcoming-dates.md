@@ -5,7 +5,7 @@ top: 2
 categories: Calendar
 tags: [codingclub]
 banner:
-    image: https://cdn.discordapp.com/attachments/942207909973094414/1150502908463431832/Calendar.jpg
+    image: "/assets/images/banners/Calendar.jpeg"
 ---
 **Last updated: 2023-09-10**
 
